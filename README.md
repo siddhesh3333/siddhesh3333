@@ -1,5 +1,5 @@
 [Alt text](https://github.com/siddhesh3333/siddhesh3333/blob/main/github-header-banner.png)
-<img align="right" alt="coding" width="400" src="https://sagaratechnology.com/blog/wp-content/uploads/2020/09/1__HFjXH8bCe0wQT9Zu3SVgg-1.gif"
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhesh3333&label=Profile%20views&color=0e75b6&style=flat" alt="siddhesh3333" /> </p>
 
