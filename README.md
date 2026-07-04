@@ -1,4 +1,4 @@
-[Alt text](https://github.com/siddhesh3333/siddhesh3333/blob/main/github-header-banner.png)
+(https://github.com/siddhesh3333/siddhesh3333/blob/main/github-header-banner.png)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhesh3333&label=Profile%20views&color=0e75b6&style=flat" alt="siddhesh3333" /> </p>
