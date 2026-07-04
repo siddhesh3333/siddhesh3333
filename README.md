@@ -7,10 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/@siddhesh dhande" target="blank"><img src="https://img.shields.io/twitter/follow/@siddhesh dhande?logo=twitter&style=for-the-badge" alt="@siddhesh dhande" /></a> </p>
 
-- 🌱 I’m currently learning **Data science course**
-
-- 💬 Ask me about **Machine learning,Deep learning,Gen Ai,NLP**
-
 - 📫 How to reach me **siddheshdhande.3333@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
